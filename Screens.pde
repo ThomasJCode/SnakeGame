@@ -11,7 +11,7 @@ void TitleScreen() {
   }
 
 
-  fill(255); //tEXT COLOR
+  fill(255); //Text color
   textFont(fontText);
   //textAlign(CENTER, CENTER); //Initial text alignment
   text("SNAKE GAME", width*0.05, height/5); //Text and size according to the widht,height
@@ -53,8 +53,8 @@ void CreditsMenu() {
   textFont(fontText2);
   text("CREDITS", width*0.4, height*0.1); //Text and size according to the widht,height
   textSize(40);
-  text(">GABRIEL DE CAMPOS ", width*0.1, height*0.4); //Text and size according to the widht,height
-  text(">THOMAS JEFFERSON ", width*0.1, height*0.6); //Text and size according to the widht,height
+  text("*GABRIEL DE CAMPOS ", width*0.1, height*0.4); //Text and size according to the widht,height
+  text("*THOMAS JEFFERSON ", width*0.1, height*0.6); //Text and size according to the widht,height
   for (int i = 0; i < nButtonsCredits; i++) {
     creditsButtons[i].draw(drawBoxes);
   }
