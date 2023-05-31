@@ -20,34 +20,42 @@ Remember, the goal is to eat food, avoid collisions, and survive as long as poss
 
 InitialMenu
 
-![InitialMenu](https://github.com/ThomasJCode/SnakeGame/assets/102050735/234499c3-9f16-4059-a15b-8b82fceaaf9e)
+![InitialMenu](https://github.com/ThomasJCode/SnakeGame/assets/102050735/d17aabee-fa1f-44e2-b5a5-9f294b410ed1)
+
 
 Options
 
-![Options](https://github.com/ThomasJCode/SnakeGame/assets/102050735/fd69b82a-757e-4e7f-ab1b-ffc8bff4d675)
+![Options](https://github.com/ThomasJCode/SnakeGame/assets/102050735/d2e7ad9f-9874-4fa7-a2f9-f787cdb91427)
+
 
 Credits
 
-![Credits](https://github.com/ThomasJCode/SnakeGame/assets/102050735/56ce0356-1a09-405d-9412-26a11bd8d621)
+![Credits](https://github.com/ThomasJCode/SnakeGame/assets/102050735/0c1c0f1c-7059-4907-a285-b684ba23bcf4)
+
 
 Help
 
-![Help](https://github.com/ThomasJCode/SnakeGame/assets/102050735/b9ca96b6-29d4-416b-99de-3b1c10a865cd)
+![Help](https://github.com/ThomasJCode/SnakeGame/assets/102050735/3dbf73f9-cf12-4379-b60a-653c5768760c)
+
 
 GameOver
 
-![GameOver](https://github.com/ThomasJCode/SnakeGame/assets/102050735/2abc2899-2739-4549-b79d-bb59ffa1ca2a)
+![GameOver](https://github.com/ThomasJCode/SnakeGame/assets/102050735/9873deea-f4a9-4567-8609-9b4379acd33b)
+
 
 Game
 
-![Game](https://github.com/ThomasJCode/SnakeGame/assets/102050735/20b3c424-f495-420b-bc7f-ece0ee984912)
+![Game](https://github.com/ThomasJCode/SnakeGame/assets/102050735/804aacc3-9011-4a4e-abde-9431458cb119)
+
 
 CheatMode
 
-![CheatMode](https://github.com/ThomasJCode/SnakeGame/assets/102050735/058fa844-b0b6-4130-b388-3a452fe25e47)
+![CheatMode](https://github.com/ThomasJCode/SnakeGame/assets/102050735/ddaef012-a78b-4a1c-b229-199d5e2ed192)
+
 
 DebugMode
 
-![DebugMode](https://github.com/ThomasJCode/SnakeGame/assets/102050735/b02398eb-d31f-468b-a2bf-0e600794dedd)
+![DebugMode](https://github.com/ThomasJCode/SnakeGame/assets/102050735/3ffe93e5-4979-43fc-a10a-28b90851dd73)
+
  
 "# SnakeGame" 
